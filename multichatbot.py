@@ -5,7 +5,7 @@ from huggingface_hub import InferenceClient
 # Initialize the Hugging Face Client
 # WARNING: Keep your API key secret! Do not share it in public forums.
 client = InferenceClient(
-    api_key="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"
+    api_key="ENTER_YOUR_HF_API_KEY"
 )
 
 # Define the available chatbots and their model IDs
